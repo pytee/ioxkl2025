@@ -6,7 +6,7 @@
 
 # --- Configuration ---
 PROJECT_FILE="~/project_id.txt"
-SPANNER_INSTANCE_ID="instavibe-graph-instance"
+SPANNER_INSTANCE_ID="ioxkl2025-graph-instance"
 SPANNER_DATABASE_ID="graphdb"
 GOOGLE_CLOUD_LOCATION="us-central1"
 REPO_NAME="introveally-repo"
