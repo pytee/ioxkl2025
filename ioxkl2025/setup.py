@@ -8,7 +8,7 @@ from google.cloud import spanner
 from google.api_core import exceptions
 
 # --- Configuration ---
-INSTANCE_ID = os.environ.get("SPANNER_INSTANCE_ID","instavibe-graph-instance")
+INSTANCE_ID = os.environ.get("SPANNER_INSTANCE_ID","ioxkl2025-graph-instance")
 DATABASE_ID = os.environ.get("SPANNER_DATABASE_ID","graphdb")
 
 PROJECT_ID = os.environ.get("GOOGLE_CLOUD_PROJECT")
